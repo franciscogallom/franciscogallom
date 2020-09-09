@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm Francisco.
 
-- :computer: I'm Computer Engineering student (2018 - Currently).
+- :computer: I'm Computer Engineering student (40%).
 - ❤️ Passionate about Software Development.
 - :books: Learning new things every day.
 - ⚡ Proactive, energetic, curious and self-taught.
